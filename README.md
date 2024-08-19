@@ -1,5 +1,4 @@
-# Alzheimer-s-Disease-Classification-Project
-Overview
+#Overview
 This repository contains the code and resources for a project aimed at developing an AI application to classify Alzheimer's disease stages using MRI images. The project involves training a Convolutional Neural Network (CNN), deploying the model as a web service, and fine-tuning a pre-trained model for improved performance.
 
 Project Structure
